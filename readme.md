@@ -7,7 +7,7 @@ Este é o nome do compilador, o motivo do Nome está relacionado ao nome do prof
 ## O que espero que seja feito
 Espero que haja equipas focadas na parte do Parser e na parte do Semantics.
 
-##Como deve ser dividido as tarefas?
+## Como deve ser dividido as tarefas?
 Temos que documentar o nosso código pois ele será modular.
 Vamos trabalhar em multiplas equipas focadas em um módulo em específico:
 - Uma equipa focada no analisador Léxico
