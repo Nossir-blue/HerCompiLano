@@ -1,3 +1,8 @@
+#include <stdio.h>
+#ifndef extern_
+ #define extern_ extern
+#endif
+
 extern_ int     Linha;
-extern_ int     devolve;
-extern_ FILE    *InFile;
+extern_ int	Devolve;
+extern_ FILE	*Infile;

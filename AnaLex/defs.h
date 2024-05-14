@@ -12,3 +12,14 @@ enum{
     *   guardar esse número
     */
 };
+
+enum{
+    A_ADICIONAR, A_SUBTRAIR, A_MULTIPLICAR, A_DIVIDIR, A_INTLIT
+};
+
+struct ASTnode{
+    int op;
+    struct ASTnode *esquerda;
+    struct ASTnode *direita;
+    int intvalue;
+}
