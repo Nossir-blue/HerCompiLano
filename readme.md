@@ -65,3 +65,4 @@ Dragon Book (Outro Livro de compiladores, acho que mandei no grupo)
 Wikipedia: Analisador Léxico (Sim, usei wikipedia) - https://pt.wikipedia.org/wiki/An%C3%A1lise_l%C3%A9xica
 Neso Academy (Canal do youtube para entender design de compiladores) - https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
 Pixeled (Canal do youtube com a playlist "Lets make a compiler") - https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241q
+### yá
