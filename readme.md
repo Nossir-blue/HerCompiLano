@@ -64,7 +64,7 @@ O Cronograma de desenvolvimento da minha parte foi basicamente 24/7, desde o dia
 #### Quarta (dia 22 - hoje) dia gasto fazendo o Lexer e terminei as 15h20
 
 # Conteúdos usados
-#### O Livro que o Rui mandou no Grupo
+#### Como construir um compilador usando ferramentas Java (livro)
 #### Construindo Compiladores (Livro que mandei no Grupo)
 #### Dragon Book (Outro Livro de compiladores, acho que mandei no grupo)
 #### Wikipedia: Analisador Léxico (Sim, usei wikipedia) - https://pt.wikipedia.org/wiki/An%C3%A1lise_l%C3%A9xica
