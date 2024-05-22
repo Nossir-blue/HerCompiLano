@@ -1,0 +1,34 @@
+public class Simbolo {
+    String nome;
+    String tipo;
+
+    public Simbolo(String nome, String tipo) {
+        this.nome = nome;
+        this.tipo = tipo;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("Simbolo{nome='%s', tipo='%s'}", nome, tipo);
+    }
+    
+}
+
+public class TabelaDSimbolo {
+    private final Map<String, Simbolo> simbolos = new HashMap<>();
+
+    public void MeterSimboso(String nome, String tipo) {
+        symbols.put(name, new Symbol(name, type));
+    }
+
+    public Symbol getSimbolo(String nome) {
+        return symbols.get(name);
+    }
+
+    @Override
+    public String toString() {
+        return "TabelaDSimbolo{" +
+                "simbolos=" + simbolos +
+                '}';
+    }
+}
